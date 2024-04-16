@@ -33,48 +33,58 @@ Specifically, your presentation should specify who Sprocket Central Pty Ltd’s 
 
  
 **Diagram 1:** 
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/c201788b-5817-4e84-8508-4d833acf0952)
  -  The analysis on Brand in respect to Profit and it shows that WeareA2B generates $2.7M followed by Solex with $2.4M so on and so forth.
 
 
 **Diagram 2:**
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/956aa4c8-97d4-4e28-8556-85e467bf9ee5)
  - The Mapping visual shows the profit in terms of State categories such as Victoria, New South Wales and Queensland. New South Wales being the highest generating state.
 
 
 **Diagram 3:**
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/e93d9d4c-f7bb-4e0e-9341-469f1f879463)
  - The Line chart being implemented on Wealth segmentation in terms of Profit where we can analyse that Mass Customer generating $4.5M followed by High Net Worth of $2.3M, Affluent Customer of $2.2M.
 
 
 **Diagram 4:**
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/2d142e3f-15c1-43ee-a8d4-04ec74eb45f8)
  - The Date hierarchy on monthly basis being shown from Jan 2017 to Nov 2017.
 
 
 **Diagram 5:**
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/531c75ed-f22d-441a-9915-7bead9e4fe83)
  - The Forecasting analysis being implemented for 10 days in Year and Monthly basis in respect to Profit to see the streamline along with value. The line is in increasing trend.
 
 
 **Diagram 6:**
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/9fc386b4-e885-43e2-9c8c-4234171d2034)
  - The line chart is being implemented on quarterly basis where we can see the 4th Quarter from Oct to Dec having the highest profit with $2.75M followed by 3rd Quarter with $2.72M.
 
 
 **Diagram 7:**
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/7c1a0d79-c349-4561-b10a-8e4de3ad19bc)
  - The Pie Chart being used for Wealth Segment in terms of Profit. Wealth Segment categorised into 3 parts like Mass Customer, High Net Worth and Affluent Customer having different and variant percentage and value of profits.
 
 
 **Diagram 8:**
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/3805db09-4cd8-4bb7-a8b0-e9b23c1a28f8)
  -  Bar Chart being used for Profit by State where New South Wales generate $5.7M profit followed by Victoria with $2.7M and Queensland with $2.3M.
 
 
 **Diagram 9:**
+
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/0c175fca-8968-471d-a680-f4a808442958)
  - The Line and Column combo chart being used to check on different Product Line in respect to profit – Standard being the highest with $8.0M along with secondary axis having brand with $14.2K connected to Product Line with profit section followed by Road, Touring.
+
 
 ## DATA INSIGHTS
 
