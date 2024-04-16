@@ -32,8 +32,9 @@ Specifically, your presentation should specify who Sprocket Central Pty Ltd’s 
 ## **GRAPHICAL REPRESENTATION**
 
  
-![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/c201788b-5817-4e84-8508-4d833acf0952)
+Diagram 1: ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/c201788b-5817-4e84-8508-4d833acf0952)
  -  The analysis on Brand in respect to Profit and it shows that WeareA2B generates $2.7M followed by Solex with $2.4M so on and so forth.
+ - 
 
 ![image](https://github.com/Rishi-Kalpa/ECommerce-Sales-Analysis-Dashboard/assets/98646729/956aa4c8-97d4-4e28-8556-85e467bf9ee5)
  - The Mapping visual shows the profit in terms of State categories such as Victoria, New South Wales and Queensland. New South Wales being the highest generating state.
